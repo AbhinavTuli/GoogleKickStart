@@ -1,0 +1,1 @@
+A passes all test cases.
