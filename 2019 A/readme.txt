@@ -1,0 +1,1 @@
+A.cpp passes both test cases. B.cpp passes first test case
